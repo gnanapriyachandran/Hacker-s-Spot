@@ -17,6 +17,7 @@
 		9A8B819F243B851400E12244 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A8B819D243B851400E12244 /* LaunchScreen.storyboard */; };
 		9A8B81A8243B8E1300E12244 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A8B81A7243B8E1300E12244 /* NetworkManager.swift */; };
 		9A8B81AA243B90DD00E12244 /* PostData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A8B81A9243B90DD00E12244 /* PostData.swift */; };
+		9AFFD84025360B1600C6E0E6 /* H4XOR.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9AFFD83F25360B1600C6E0E6 /* H4XOR.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		9A8B81A0243B851400E12244 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9A8B81A7243B8E1300E12244 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		9A8B81A9243B90DD00E12244 /* PostData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostData.swift; sourceTree = "<group>"; };
+		9AFFD83F25360B1600C6E0E6 /* H4XOR.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = H4XOR.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,6 +51,7 @@
 		9A8B8186243B850E00E12244 = {
 			isa = PBXGroup;
 			children = (
+				9AFFD83F25360B1600C6E0E6 /* H4XOR.gif */,
 				9A8B8191243B850F00E12244 /* H4XOR */,
 			);
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 			files = (
 				9A8B819F243B851400E12244 /* LaunchScreen.storyboard in Resources */,
 				9A8B819C243B851400E12244 /* Preview Assets.xcassets in Resources */,
+				9AFFD84025360B1600C6E0E6 /* H4XOR.gif in Resources */,
 				9A8B8199243B851400E12244 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
